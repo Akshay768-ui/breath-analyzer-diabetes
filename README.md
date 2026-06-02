@@ -83,5 +83,4 @@ To develop a painless, low-cost, and portable alternative for routine diabetes s
 - Add BLE and cross-platform support
 - Miniaturization using PCB design
 
-## My Contribution
-- [We will customize this based on your exact role]
+
